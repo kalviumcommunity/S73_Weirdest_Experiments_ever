@@ -1,0 +1,20 @@
+{
+  "name": "s73_weirdest_experiments_ever",
+  "version": "1.0.0",
+  "description": "Weirdest Experiments Ever: A Digital Archive of Scientific Curiosities",
+  "homepage": "https://github.com/kalviumcommunity/S73_Weirdest_Experiments_ever#readme",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S73_Weirdest_Experiments_ever/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S73_Weirdest_Experiments_ever.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

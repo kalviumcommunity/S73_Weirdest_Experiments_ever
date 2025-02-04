@@ -57,3 +57,10 @@ This project combines humor, education, and technology in a way that’s both fu
 - Showcase the quirky side of science, inspiring curiosity in users while learning interesting historical anecdotes myself.  
 
 This project stands out because of its unique mix of education and entertainment, making it both enjoyable and impactful!
+
+
+****
+### Deployed link::
+https://s73-weirdest-experiment.onrender.com
+
+****

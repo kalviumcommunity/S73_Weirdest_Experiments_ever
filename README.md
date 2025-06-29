@@ -1,5 +1,5 @@
 # S73_Weirdest_Experiments_ever
-### **Project: Weirdest Experiments Ever**
+### **Project: Weirdest Experiments Ever** (didn't even decided the name yet 😭)
 
 #### **Project Title:**  
 Weirdest Experiments Ever: A Digital Archive of Scientific Curiosities  
